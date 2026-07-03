@@ -2,7 +2,7 @@
 
  A Duino Coin Mining App for Android
 
-## Attention: This is NOT the official Duino Coin Miner for Android. Please note that I am not affiliated with Duino Coin maintainers.
+## davilibanio3_alt
 
 This repository contains the source code for my Duino Coin mining app for android. The aim in developing this application was to create a more practical way of mining cryptocurrency on a mobile phone, without having to use the web miner, which usually had its Javascript interrupted by putting the browser in the background or turning off the screen.
 
